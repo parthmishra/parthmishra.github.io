@@ -1,4 +1,19 @@
-h1 {
-  font-family:"consolas";
-  color: red;
-};
+body {
+  background-color: #808080;
+  text-align: center;
+  font-family: "monaco";
+  color: white;
+}
+
+
+a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+
+a.visited {
+  color: inherit;
+}
+
+;
